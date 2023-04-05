@@ -1,0 +1,42 @@
+.a{
+    
+    display: inline;
+    color: brown;
+    background-color: yellow;
+}
+.anchor{
+    color:brown;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+
+}
+h1{
+    color: red;
+}
+h2{
+    color:red;
+    font-style: italic;
+}
+.b{
+    color:maroon;
+    font-weight: normal;
+    /* letter-spacing: 6px; */
+
+}
+h3{
+    color: orangered;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+}
+.c{
+    color:maroon;
+    font-family: 'Roboto Mono', monospace;
+    font-size: inherit;
+    letter-spacing: 6px;
+
+}
+p{
+    color: maroon;
+}
